@@ -1,0 +1,14 @@
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\bin\Debug\ReinforcementLearningTry.exe.config
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\bin\Debug\ReinforcementLearningTry.exe
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\bin\Debug\ReinforcementLearningTry.pdb
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\ReinforcementLearningTry.csprojResolveAssemblyReference.cache
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\MainWindow.g.cs
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\App.g.cs
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\ReinforcementLearningTry_MarkupCompile.cache
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\ReinforcementLearningTry_MarkupCompile.lref
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\MainWindow.baml
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\ReinforcementLearningTry.g.resources
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\ReinforcementLearningTry.Properties.Resources.resources
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\ReinforcementLearningTry.csproj.GenerateResource.Cache
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\ReinforcementLearningTry.exe
+c:\users\ramno\documents\visual studio 2017\Projects\ReinforcementLearningTry\ReinforcementLearningTry\obj\Debug\ReinforcementLearningTry.pdb
